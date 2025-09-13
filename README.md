@@ -1,3 +1,7 @@
+## Demo
+
+https://github.com/user-attachments/assets/12784173-a5dd-48b9-a218-29b5c478d57d
+
 # 🧠 Alzheimer Prediction Chatbot
 
 This is a **Java-based chatbot** that simulates the **Mini-Mental State Examination (MMSE)**, collects basic demographic and lifestyle features, and predicts whether a user is at risk of **Alzheimer’s Disease** using a pre-trained **Random Forest model**.
@@ -26,8 +30,4 @@ This is a **Java-based chatbot** that simulates the **Mini-Mental State Examinat
 ## Run
     cd (Project Directory e.g. C:\Users\Josh\Downloads\Alziheimers ChatBot>)
     Java Main.java
-
-## Demo
-
-https://github.com/user-attachments/assets/12784173-a5dd-48b9-a218-29b5c478d57d
 

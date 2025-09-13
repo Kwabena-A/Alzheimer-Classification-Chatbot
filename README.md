@@ -1,6 +1,4 @@
-## Demo
 
-https://github.com/user-attachments/assets/12784173-a5dd-48b9-a218-29b5c478d57d
 
 # 🧠 Alzheimer Prediction Chatbot
 
@@ -9,6 +7,10 @@ This is a **Java-based chatbot** that simulates the **Mini-Mental State Examinat
 ⚠️ **Disclaimer:** This project is for **educational purposes only**. It is **not** a medical tool and should not be used for real diagnosis. Always consult a licensed medical professional.
 
 ---
+
+## Demo
+
+https://github.com/user-attachments/assets/12784173-a5dd-48b9-a218-29b5c478d57d
 
 ## 🚀 Features
 - **Interactive Chatbot** with typing effect and console UI.
